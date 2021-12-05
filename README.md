@@ -1,1 +1,1 @@
-###Game Caro + Alpha-belta Algorithm
+### Game Caro + Alpha-belta Algorithm
