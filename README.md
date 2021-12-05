@@ -1,3 +1,1 @@
-##### Game-Caro-AI
-
-Game Caro + Alpha-belta Algorithm
+###Game Caro + Alpha-belta Algorithm
